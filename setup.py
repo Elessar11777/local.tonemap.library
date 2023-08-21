@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='hdr-local-processing',
-    version='0.1.4',
+    version='0.1.1',
     url='https://github.com/Elessar11777',
     author='Elessar11777',
     author_email='Elessar11777@gmail.com',
